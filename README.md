@@ -63,8 +63,8 @@ $ bash XTool.sh
 
 ### Run on Docker
 ```
-$ docker pull htrtech/XTool
-$ docker run --rm -it htrtech/XTool
+$ docker pull Zenoixnoize/XTool
+$ docker run --rm -it Zenoixnoize/XTool
 ```
 
 ### Dependencies
@@ -79,10 +79,16 @@ $ docker run --rm -it htrtech/XTool
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
-## Codded By Tharindu Liyanage
+### Special thanks to the Vimukthi Lakshan
+
+
+<h2>Project By Tharindu Liyanage(CEO and Founder Of Xnodes)<h2>
+    <b><table><tr><th>Tharindu Liyanage</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://i.ibb.co/VNDz0TD/IMG-20220728-121559.jpg" width="180"</td></tr></b>
+
+
 
 <h3 align="center">
-:: Workflow ::
+
 </h3>
 <p align="center">
 
