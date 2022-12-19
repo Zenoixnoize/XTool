@@ -1,4 +1,5 @@
 <!-- XTool -->
+### XTool (Hacking)
 
 <p align="center">
   <img src=".imgs/X.png">
@@ -22,7 +23,7 @@
 
 ##
 
-<h3><p align="center">Disclaimer</p></h3>
+<h3><p align="center">Disclaimer ⚠️</p></h3>
 
 <i>Any actions and or activities related to <b>XTool</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
@@ -83,7 +84,7 @@ $ docker run --rm -it Zenoixnoize/XTool
 
 
 <h2>Project By Tharindu Liyanage(CEO and Founder Of Xnodes)<h2>
-    <b><table><tr><th>Tharindu Liyanage</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://i.ibb.co/VNDz0TD/IMG-20220728-121559.jpg" width="180"</td></tr></b>
+    <b><table><tr><th>Tharindu Liyanage</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://i.ibb.co/8NmFQkK/IMG-20221219-180323-525.jpg" width="180"</td></tr></b>
 
 
 
