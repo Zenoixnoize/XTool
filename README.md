@@ -1,7 +1,7 @@
 <!-- XTool -->
 
 <p align="center">
-  <img src=".imgs/logo.png">
+  <img src=".imgs/X.png">
 </p>
 
 <p align="center">
@@ -79,14 +79,13 @@ $ docker run --rm -it htrtech/XTool
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
-##
+## Codded By Tharindu Liyanage
 
 <h3 align="center">
 :: Workflow ::
 </h3>
 <p align="center">
-### Codded By Tharindu Liyanage 
-</p>
+
 
 
 
