@@ -1,21 +1,19 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	Tharindu Liyanage
-##   Version 	: 	1.0
+##   Xnodes	: 	Automated Phishing Tool
+##   Author 	: 	Tharindu Liyanage  
+##   Version 	: 	2.2
 ##   Github 	: 	https://github.com/Zenoixnoize
 
-##   THANKS TO :
-# Vimukthi Lakshan
-
+##   THANKS TO : Cloudflare , Vimukthi Lakshan
 ## If you Copy Then Give the credits :)
 
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
-##                    Version 3, 19 December 2022
+##                    Version 1, 06  2022
 ##
-##    Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+##    Copyright (C) 2022 Free Software 
 ##    Everyone is permitted to copy and distribute verbatim copies
 ##    of this license document, but changing it is not allowed.
 ##
@@ -82,7 +80,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2022  Xnodes Devs (https://github.com/Zenoixnoize)
+##      Copyright (C) 2021 Xnodes
 ##
 
 
@@ -155,7 +153,7 @@ banner() {
 		${ORANGE}                ${RED}Version : 1.0
 		
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Xnodes Devs${WHITE}
 	EOF
 }
 
@@ -168,7 +166,6 @@ banner_small() {
 		${BLUE}  ███ █╬█ █╬█ █╬█ ╬╬ ╬█╬ █▄█ █▄█ ██${WHITE} 2.2
 	EOF
 }
-
 
 ## Dependencies
 dependencies() {
